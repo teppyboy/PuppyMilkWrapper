@@ -18,7 +18,7 @@ PuppyMilkWrapper is an unoffical C# wrapper for [Puppy Milk Injector](https://v3
 ### Basic Usage
 1. Add `using PuppyMilkWrapper;` to your code
 2. Set the Puppy Milk Injector path using `PuppyInjector.PuppyMilkPath = "[path here];"`
-3. Use `PuppyInjector.Inject(<string> dllPath); to Inject.`
+3. Use `PuppyInjector.Inject(<string> dllPath);` to Inject.
 
 ### Example code
 ```c#
