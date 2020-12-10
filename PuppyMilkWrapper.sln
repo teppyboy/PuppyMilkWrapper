@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppyMilkWrapper", "PuppyMilkWrapper\PuppyMilkWrapper.csproj", "{9E564BE6-AD01-4D9A-913D-070DF520FB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppyMilkGUI", "PuppyMilkGUI\PuppyMilkGUI.csproj", "{2723CA8D-7743-426A-BD08-6C04E58A467E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E564BE6-AD01-4D9A-913D-070DF520FB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E564BE6-AD01-4D9A-913D-070DF520FB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E564BE6-AD01-4D9A-913D-070DF520FB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E564BE6-AD01-4D9A-913D-070DF520FB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2723CA8D-7743-426A-BD08-6C04E58A467E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2723CA8D-7743-426A-BD08-6C04E58A467E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2723CA8D-7743-426A-BD08-6C04E58A467E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2723CA8D-7743-426A-BD08-6C04E58A467E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29976C5-C170-4AB7-AECF-06078ADD907D}
+	EndGlobalSection
+EndGlobal
