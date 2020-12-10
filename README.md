@@ -6,7 +6,7 @@
 PuppyMilkWrapper is an unoffical C# wrapper for [Puppy Milk Injector](https://v3rmillion.net/showthread.php?tid=1078773) 
 
 ### Puppy Milk Injector
-[Puppy Milk Injector](https://v3rmillion.net/showthread.php?tid=1078773)  made by CompiledCode, Inspect & XGladius is an Injector that bypasses [DLL Analysis Check](https://v3rmillion.net/showthread.php?tid=1078539&highlight=DAC) for [Block Game]. You can download it at [here](https://cdn.discordapp.com/attachments/784597168887300106/785011977973268510/PuppyMilkV3.exe)
+[Puppy Milk Injector](https://v3rmillion.net/showthread.php?tid=1078773)  made by CompiledCode, Inspect & XGladius is an Injector that bypasses [DLL Analysis Check](https://v3rmillion.net/showthread.php?tid=1078539&highlight=DAC) for [Block Game]. You can download it [here](https://cdn.discordapp.com/attachments/784597168887300106/785011977973268510/PuppyMilkV3.exe)
 ## Getting Started
 
 ### Installation
